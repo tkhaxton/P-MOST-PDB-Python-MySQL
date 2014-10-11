@@ -1,0 +1,38 @@
+HEADER    NONAME 05-Jun-11
+TITLE     Produced by PDBeChem
+COMPND    ASP      
+AUTHOR    EBI-PDBe Generated
+REVDAT   1  05-Jun-11     0
+ATOM      1  N   ASP     0      -0.317   1.688   0.066  1.00 20.00           N+0
+ATOM      2  CA  ASP     0      -0.470   0.286  -0.344  1.00 20.00           C+0
+ATOM      3  C   ASP     0      -1.868  -0.180  -0.029  1.00 20.00           C+0
+ATOM      4  O   ASP     0      -2.534   0.415   0.786  1.00 20.00           O+0
+ATOM      5  CB  ASP     0       0.539  -0.580   0.413  1.00 20.00           C+0
+ATOM      6  CG  ASP     0       1.938  -0.195   0.004  1.00 20.00           C+0
+ATOM      7  OD1 ASP     0       2.109   0.681  -0.810  1.00 20.00           O+0
+ATOM      8  OD2 ASP     0       2.992  -0.826   0.543  1.00 20.00           O+0
+ATOM      9  OXT ASP     0      -2.374  -1.256  -0.652  1.00 20.00           O+0
+ATOM     10  H   ASP     0      -0.928   2.289  -0.467  1.00 20.00           H+0
+ATOM     11  H2  ASP     0      -0.478   1.795   1.056  1.00 20.00           H+0
+ATOM     12  HA  ASP     0      -0.292   0.199  -1.416  1.00 20.00           H+0
+ATOM     13  HB2 ASP     0       0.419  -0.425   1.485  1.00 20.00           H+0
+ATOM     14  HB3 ASP     0       0.367  -1.630   0.176  1.00 20.00           H+0
+ATOM     15  HD2 ASP     0       3.869  -0.545   0.250  1.00 20.00           H+0
+ATOM     16  HXT ASP     0      -3.275  -1.517  -0.416  1.00 20.00           H+0
+CONECT    1    2   10   11
+CONECT    2    3    5   12    1
+CONECT    3    2    4    9
+CONECT    4    3
+CONECT    5    2    6   13   14
+CONECT    6    5    7    8
+CONECT    7    6
+CONECT    8    6   15
+CONECT    9    3   16
+CONECT   10    1
+CONECT   11    1
+CONECT   12    2
+CONECT   13    5
+CONECT   14    5
+CONECT   15    8
+CONECT   16    9
+END
